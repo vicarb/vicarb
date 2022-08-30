@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **best practices of dev ops**
 
-- 👯 I’m looking to collaborate on **transaction processors, banking,retail**
+- 👯 I’m looking to collaborate on **transaction processors, banking,retail operations**
 
-- 👨‍💻 All of my projects are available at [my profile](my profile)
+- 👨‍💻 All of my projects are available below
 
 - 💬 Ask me about **React, animations, NextJS, ci/cd, django, python, API, databases**
 
