@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **best practices of dev ops**
 
-- 👯 I’m looking to collaborate on **business related projects**
+- 👯 I’m looking to collaborate on **business software**
 
 - 👨‍💻 All of my projects are available below
 
