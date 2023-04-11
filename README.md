@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicarb" alt="vicarb" /></a> </p>
 
-- 🌱 I’m currently learning **best practices of dev ops**
+- 🌱 I’m currently learning **Service as a Software Design and Development**
 
 - 👯 I’m looking to collaborate on **business software**
 
