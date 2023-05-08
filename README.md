@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **business software**
 
-- 👨‍💻 All of my projects are available below
-
 - 💬 Ask me about **React, NextJS, ci/cd, django, Full Stack App development, API Development**
 
 - 📫 How to reach me **vcardenasb@protonmail.com**
