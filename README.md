@@ -15,7 +15,7 @@
 </a> 
 </p>
 
-- 🎓 Diving deep into **AI-powered digital business solutions development **
+- 🎓 Diving deep into **AI-powered digital business solutions development**
 - 💼 Eager to collaborate on groundbreaking **business software**
 - 💡 Ask me about my expertise in **React, NextJS, CI/CD, Django, Full Stack App development, API Development**
 - 📧 Reach out to me at: **vcardenasb@protonmail.com**
